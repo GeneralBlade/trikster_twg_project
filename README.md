@@ -1,7 +1,7 @@
 # trikster_twg_project
 
 ## [eng]
-### Relations
+### Dependences
 The project depend on Unity v2020.3.26f1 
 
 ### Descriptions
